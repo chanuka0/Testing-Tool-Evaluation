@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\sliit_2\\3Y1Y\\Advanced Software Engineering  SE3112\\User_Authentication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E26EEBD5-F5C7-40B0-A81A-D54EBAB0AA28}|AuthenticationDemo.Tests\\AuthenticationDemo.Tests.csproj|f:\\sliit_2\\3y1y\\advanced software engineering  se3112\\user_authentication\\authenticationdemo.tests\\userauthenticationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E26EEBD5-F5C7-40B0-A81A-D54EBAB0AA28}|AuthenticationDemo.Tests\\AuthenticationDemo.Tests.csproj|solutionrelative:authenticationdemo.tests\\userauthenticationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68CE8526-BDBC-D0C6-1346-5FE5CC316363}|User_Authentication\\AuthenticationDemo.csproj|f:\\sliit_2\\3y1y\\advanced software engineering  se3112\\user_authentication\\user_authentication\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68CE8526-BDBC-D0C6-1346-5FE5CC316363}|User_Authentication\\AuthenticationDemo.csproj|solutionrelative:user_authentication\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E26EEBD5-F5C7-40B0-A81A-D54EBAB0AA28}|AuthenticationDemo.Tests\\AuthenticationDemo.Tests.csproj|f:\\sliit_2\\3y1y\\advanced software engineering  se3112\\user_authentication\\authenticationdemo.tests\\authenticationdemo.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E26EEBD5-F5C7-40B0-A81A-D54EBAB0AA28}|AuthenticationDemo.Tests\\AuthenticationDemo.Tests.csproj|solutionrelative:authenticationdemo.tests\\authenticationdemo.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68CE8526-BDBC-D0C6-1346-5FE5CC316363}|User_Authentication\\AuthenticationDemo.csproj|f:\\sliit_2\\3y1y\\advanced software engineering  se3112\\user_authentication\\user_authentication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68CE8526-BDBC-D0C6-1346-5FE5CC316363}|User_Authentication\\AuthenticationDemo.csproj|solutionrelative:user_authentication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthenticationDemo.Tests.csproj",
+              "DocumentMoniker": "F:\\sliit_2\\3Y1Y\\Advanced Software Engineering  SE3112\\User_Authentication\\AuthenticationDemo.Tests\\AuthenticationDemo.Tests.csproj",
+              "RelativeDocumentMoniker": "AuthenticationDemo.Tests\\AuthenticationDemo.Tests.csproj",
+              "ToolTip": "F:\\sliit_2\\3Y1Y\\Advanced Software Engineering  SE3112\\User_Authentication\\AuthenticationDemo.Tests\\AuthenticationDemo.Tests.csproj",
+              "RelativeToolTip": "AuthenticationDemo.Tests\\AuthenticationDemo.Tests.csproj",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-31T14:54:13.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserAuthenticationTests.cs",
+              "DocumentMoniker": "F:\\sliit_2\\3Y1Y\\Advanced Software Engineering  SE3112\\User_Authentication\\AuthenticationDemo.Tests\\UserAuthenticationTests.cs",
+              "RelativeDocumentMoniker": "AuthenticationDemo.Tests\\UserAuthenticationTests.cs",
+              "ToolTip": "F:\\sliit_2\\3Y1Y\\Advanced Software Engineering  SE3112\\User_Authentication\\AuthenticationDemo.Tests\\UserAuthenticationTests.cs",
+              "RelativeToolTip": "AuthenticationDemo.Tests\\UserAuthenticationTests.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAuwAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T14:36:40.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "F:\\sliit_2\\3Y1Y\\Advanced Software Engineering  SE3112\\User_Authentication\\User_Authentication\\User.cs",
+              "RelativeDocumentMoniker": "User_Authentication\\User.cs",
+              "ToolTip": "F:\\sliit_2\\3Y1Y\\Advanced Software Engineering  SE3112\\User_Authentication\\User_Authentication\\User.cs",
+              "RelativeToolTip": "User_Authentication\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T09:06:29.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\sliit_2\\3Y1Y\\Advanced Software Engineering  SE3112\\User_Authentication\\User_Authentication\\Program.cs",
+              "RelativeDocumentMoniker": "User_Authentication\\Program.cs",
+              "ToolTip": "F:\\sliit_2\\3Y1Y\\Advanced Software Engineering  SE3112\\User_Authentication\\User_Authentication\\Program.cs",
+              "RelativeToolTip": "User_Authentication\\Program.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAAAHwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T08:37:46.024Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1104,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
